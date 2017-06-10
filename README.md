@@ -4,6 +4,5 @@ A script to install Ansible and Docker on Ubuntu. To start the installation clon
 Make sure the script is executed with root permission.
 
 ```
-#!bash
 > sudo ./install.sh
 ```
